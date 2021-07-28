@@ -51,8 +51,9 @@ Folder should be looks like:
     ```
 
 ## Evaluation
-Download the models from the [link](https://www.dropbox.com/sh/6sq3x7j0j160db9/AACrvNZu5xdUFh33POScjonoa?dl=0) and place them in the `models/` folder. Folder should be looks like:
-    ```
+Download the models from the [link](https://www.dropbox.com/sh/6sq3x7j0j160db9/AACrvNZu5xdUFh33POScjonoa?dl=0) and place them in the `models/` folder. 
+Folder should be looks like:
+
     models/
         ap1/
             resnet18.pth
@@ -72,7 +73,6 @@ Download the models from the [link](https://www.dropbox.com/sh/6sq3x7j0j160db9/A
             resnet50.pth
             resnet101.pth
             resnet152.pth
-    ```
 
 
 For evaluation use script `src/main.py`:
